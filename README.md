@@ -8,7 +8,7 @@ The song you're playing shows up word by word as stars that join into a constell
 
 ## ⬇️ Download
 
-Get **LyricConstellation.exe** from the [latest release](../../releases/latest) and double-click it. It installs itself and opens a short setup wizard. You get a 7-day free trial, then activate with your license key.
+Get **LyricConstellationSetup.exe** from the [latest release](../../releases/latest), run it and click **Install**. The setup wizard opens on first start. You get a 7-day free trial, then activate with your license key.
 
 > Windows may say **"Windows protected your PC"** because the app is new. Click **More info → Run anyway**.
 
